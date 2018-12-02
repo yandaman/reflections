@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a .git directory is created which contains allows git to start tracking your repo. You need to do it so git can start tracking your repo.
