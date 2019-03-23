@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
-
 a .git directory is created which contains allows git to start tracking your repo. You need to do it so git can start tracking your repo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add your files and commit them everytime you make a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be useful if you were working on a feature of a piece of live code that you still wanted to be able to be readily available to be built from master.
+Or if you were working on something on the code base separate from the main development team.
