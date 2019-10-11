@@ -14,3 +14,6 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 
 A: It makes this less complicated if someone else is also working on the same remote repo with a local copy somewhere else. 
 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: It keeps master shippable and doesn't interfere with others who might be working on master. 
